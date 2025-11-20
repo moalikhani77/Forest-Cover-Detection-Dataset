@@ -91,6 +91,9 @@ This dataset is suitable for:
 ---
 
 
+## 📥 Download
+
+- 🔗 [Download Forest Dataset Dataset (GeoTIFF)](https://mega.nz/folder/OiwVDR6A#LoWV6TDlqvsfLrS105KAkw)
 
 ## 🙌 Acknowledgments
 This dataset was generated using:
