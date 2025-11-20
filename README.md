@@ -1,6 +1,8 @@
 # 🌲 Forest Cover Detection Dataset
 Pixel-level, fully co-registered forest/non-forest dataset generated from synthetic aperture radar (SAR) and optical remote sensing imagery over the **Hyrcanian Green Belt in northern Iran**.
-![Multi-source data](Dataset_Samples.png)
+<p align="center">
+  <img src="Dataset Samples.png" width="1000"/>
+</p>
 
 ---
 
