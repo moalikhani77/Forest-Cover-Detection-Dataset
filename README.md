@@ -1,4 +1,4 @@
-# 🌲 Forest Cover Detection Dataset (ALOS-2, Sentinel-1, Sentinel-2)
+# 🌲 Forest Cover Detection Dataset
 Pixel-level, fully co-registered forest/non-forest dataset generated from synthetic aperture radar (SAR) and optical remote sensing imagery over the **Hyrcanian Green Belt in northern Iran**.
 
 ---
